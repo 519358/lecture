@@ -70,4 +70,9 @@ multi
 multi_flat
 plus
 square
+plus_main
+plus_main_s
+plus_main_d
 
+*.i
+*.s
